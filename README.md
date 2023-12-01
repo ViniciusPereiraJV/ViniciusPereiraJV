@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A025D3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+Vinicius+Pereira;Estudante+na+área+de;Front+End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A025D3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Hello,+I´m+Vinicius+Pereira;Junior+Front+End+Developer.)](https://git.io/typing-svg)
   
   
 
