@@ -1,4 +1,4 @@
-import { FaReact } from "react-icons/fa6";
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A025D3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Hello,+I´m+Vinicius+Pereira;Junior+Front+End+Developer.)](https://git.io/typing-svg)
@@ -34,6 +34,7 @@ import { FaReact } from "react-icons/fa6";
 
 <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
 
+
   ### 💻 Software and tools:
   
   
@@ -53,6 +54,17 @@ import { FaReact } from "react-icons/fa6";
  <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
  </div>
+
+ <div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/ViniciusPereiraJV/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 
   
